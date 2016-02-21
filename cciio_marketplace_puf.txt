@@ -1,0 +1,29 @@
+https://www.cms.gov/CCIIO/Resources/Data-Resources/marketplace-puf.html
+
+== 2016 ==
+http://download.cms.gov/marketplace-puf/2016/benefits-and-cost-sharing-puf.zip
+http://download.cms.gov/marketplace-puf/2016/business-rules-puf.zip          
+http://download.cms.gov/marketplace-puf/2016/machine-readable-url-puf.zip    
+http://download.cms.gov/marketplace-puf/2016/network-puf.zip                 
+http://download.cms.gov/marketplace-puf/2016/plan-attributes-puf.zip         
+http://download.cms.gov/marketplace-puf/2016/plan-id-crosswalk-puf.zip       
+http://download.cms.gov/marketplace-puf/2016/rate-puf.zip                    
+http://download.cms.gov/marketplace-puf/2016/service-area-puf.zip            
+
+== 2015 ==
+http://download.cms.gov/marketplace-puf/benefits-and-cost-sharing-puf.zip    
+http://download.cms.gov/marketplace-puf/business-rules-puf.zip               
+http://download.cms.gov/marketplace-puf/network-puf.zip                      
+http://download.cms.gov/marketplace-puf/plan-attributes-puf.zip              
+http://download.cms.gov/marketplace-puf/plan-id-crosswalk-puf.zip            
+http://download.cms.gov/marketplace-puf/rate-puf.zip                         
+http://download.cms.gov/marketplace-puf/rate-puf.zip                         
+http://download.cms.gov/marketplace-puf/service-area-puf.zip                 
+
+== 2014 ==
+http://download.cms.gov/marketplace-puf/2014/benefits-and-cost-sharing-puf.zip
+http://download.cms.gov/marketplace-puf/2014/business-rules-puf.zip          
+http://download.cms.gov/marketplace-puf/2014/network-puf.zip                 
+http://download.cms.gov/marketplace-puf/2014/plan-attributes-puf.zip         
+http://download.cms.gov/marketplace-puf/2014/rate-puf.zip                    
+http://download.cms.gov/marketplace-puf/2014/service-area-puf.zip              
